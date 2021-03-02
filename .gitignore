@@ -1,0 +1,6 @@
+.project
+.settings
+.classpath
+target
+
+rumosploit-bot/src/main/resources/bconfig.yml
